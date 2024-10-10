@@ -1,0 +1,11 @@
+472819,Fayth Lee,Postgraduate,fayth
+895634,Shannon Liong,Undergraduate,shannon
+153742,Kelly Ngu,Undergraduate,kelly
+648209,Natalie Song,Foundation,natalie
+567890,Samantha Tan,Undergraduate,samantha
+341256,Eunice Wong,Foundation,eunice
+980765,Lydia Ting,Postgraduate,lydia
+654321,Elvira Wong,Undergraduate,elvira
+123456,Michelle Yeo,Postgraduate,michelle
+987654,Amy Kim,Foundation,amy 
+  
